@@ -1,0 +1,12 @@
+{
+  "name": "uddin-auto-insurance",
+  "version": "1.0.0",
+  "description": "Uddin Auto Insurance static site with a simple Node authentication backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
